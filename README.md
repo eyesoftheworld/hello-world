@@ -1,2 +1,2 @@
 # hello-world
-this is something new and exciting about me. 
+this is something new about me. 
